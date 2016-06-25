@@ -28,10 +28,14 @@
 * ECMAScript（JavaScript）：熟练进行原生javascript模块式和面向对象开发，了解es6
 * 掌握跨设备的响应式设计以及浏览器兼容性
 * 了解jade以及ejs模板引擎
+
+
 **前端工程化思想：**
 * 掌握npm指令操作git，gulp自动化构建工具
 * 熟练使用webTest性能优化工具对页面进行性能分析，改进
 * 了解TestDrivenDevelop
+
+
 **后台相关**
 * 对后台语言c,c++,c#,java,php都有接触，能用java实现算法，了解数据库操作语句
 * 熟悉基本的http restful api，掌握json数据格式，掌握http状态码可与后端进行无障碍的接口调试
