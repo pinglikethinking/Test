@@ -33,7 +33,7 @@
 **前端工程化思想：**
 * 掌握npm指令操作git，gulp自动化构建工具
 * 熟练使用webTest性能优化工具对页面进行性能分析，改进
-* 了解TestDrivenDevelop
+* 了解TestDrivenDevelopment
 
 
 **后台相关**
