@@ -9,6 +9,11 @@
 * tel:13161864142
 * 邮箱：pinglikethinking@gmail.com
 
+
+### 工作经历
+
+2016.6.27-至今 北京帕克英科技有限公司（QPark）主要负责原生JS开发，解决框架冲突问题
+
 ### 开源项目和作品
 * [static_sina](https://github.com/pinglikethinking/static_sina)：FW切图、291行html兼容IE、492行CSS实现两栏布局、jQuery实现输入框提示框功能
 * [www](https://github.com/pinglikethinking/WWW)：html5的canvas标签+原生JS实现“星星点缀”的背景、signin和signup通过操作CSS类名更改布局块
